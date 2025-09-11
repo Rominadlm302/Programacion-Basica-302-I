@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Romina De la luz Martinez
-## 14/03/2009
-## Portafolio de Codigos c++
+<img width="273" height="171" alt="image" src="https://github.com/user-attachments/assets/aab5dee5-e7ba-4919-898b-4ed0540afe20" />
